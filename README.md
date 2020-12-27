@@ -5,7 +5,6 @@ Build a Python-based desktop application which is a Fantasy Cricket Game, where 
 
 Technologies used: Python, OOP, SQLite, PyQt framework
 
-Certification: https://drive.google.com/file/d/1_1A2bRGu-UU5C_abnJ4KxINadYbtB0sE/view?usp=sharing
 
 
 ![user_view](/result_screenshot/game.png)
